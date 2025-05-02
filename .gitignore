@@ -1,5 +1,5 @@
 ./django_project/Include
-.\django_project\Lib\site-packages
+./django_project\Lib\site-packages
 ./django_project/Script
 ./django_project/pyvenv.cfg
 
