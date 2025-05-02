@@ -13,8 +13,8 @@ Getting Started
 Follow these steps to set up the project locally:
 
 Clone the Repository
-git clone https://github.com/yourusername/django-tutorial-amirkabir.git
-cd django-tutorial-amirkabir
+git clone https://github.com/MohammadMahdiHassani/Django_Toturial.git
+cd Django_Toturial
 
 
 Create and Activate a Virtual Environment
